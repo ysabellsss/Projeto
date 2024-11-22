@@ -1,1 +1,12 @@
-bory()
+body{
+    font-family: "Amatic SC", sans-serif;
+    background: rgb(172, 24, 73);
+    color: rgba(0, 0, 0, 0.774);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+.chamada{
+    background:rgb(199, 78, 78);
+    display: flex;
+    
+}
