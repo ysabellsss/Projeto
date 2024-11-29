@@ -10,5 +10,18 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 80px;
+    margin-bottom: 80px;
     
+}
+header{
+    font: size 40;
+    color:blueviolet
+    border-bottom 3px solid darkred
+    padding 20px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada-texto{
+    margin: right 5%; 
 }
